@@ -1,0 +1,17 @@
+.pageCard {
+    display: flex;
+    margin: 10px auto;
+    align-items: center;
+    height: 60px;
+}
+
+.pageImageDiv {
+    margin-right: 10px;
+}
+
+.pageImage {
+    width: 50px;
+    display: block;
+    height: 50px;
+    border-radius: 50%;
+}

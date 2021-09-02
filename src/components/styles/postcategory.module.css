@@ -1,0 +1,16 @@
+
+.radioDiv {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.postsCategory {
+    padding-bottom: 5px;
+    margin-top: 15px;
+}
+
+.option {
+    background-color: rgb(2, 2, 2);
+    color: rgb(212, 212, 212);
+    width: 100%;
+}
